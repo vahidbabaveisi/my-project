@@ -1,0 +1,4 @@
+name,fixedCost,variableCost,capacity,minimumOutput
+Solar,0,0,40,0
+Battery,12,8,30,5
+Grid,20,25,100,10
